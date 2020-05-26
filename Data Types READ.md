@@ -1,4 +1,4 @@
-#Fundamentals: They are four required fundamentals in any language. Those are called key points. 1. Terms, 2. Actions, 3. Data Types and 4. Best Practices.
+<!-- #Fundamentals: They are four required fundamentals in any language. Those are called key points. 1. Terms, 2. Actions, 3. Data Types and 4. Best Practices.
 
 
 ##Data Types
@@ -30,4 +30,4 @@ print(6 % 4) # percentages
 ###math functions
 print(round(3.9))
 ###abs absolute value. No negative number. For example:
-print(abs(-20))
+print(abs(-20)) -->
