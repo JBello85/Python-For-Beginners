@@ -19,7 +19,7 @@
 ##Fundamentals of Data Type
 int and float
 print(type(6))
-print(type(2 - 4)) ###substraction
+print(type(2 - 4)) # substraction
 print(type(2 * 4)) # multiplication
 print(type(2 / 4)) # division 0.5
 
